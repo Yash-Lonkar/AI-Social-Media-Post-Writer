@@ -1,4 +1,4 @@
-# 🚀 AI Prompt Optimizer & Social Media Post Generator
+# 🚀 AI Prompt Optimizer & Social Media Post Generator エーアイ・エスエヌエス・ヘルパー
 
 An **AI-powered adapter** that sits between humans and LLMs (ChatGPT, Gemini, etc.) to **optimize prompts** and **auto-generate platform-specific social media posts** — even if the user has *zero prompt‑engineering knowledge*.
 人間と大規模言語モデル（ChatGPT、Gemini など）の間で動作する AI搭載アダプター
