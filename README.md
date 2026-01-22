@@ -1,6 +1,17 @@
 # 🚀 AI Prompt Optimizer & Social Media Post Generator
 
 An **AI-powered adapter** that sits between humans and LLMs (ChatGPT, Gemini, etc.) to **optimize prompts** and **auto-generate platform-specific social media posts** — even if the user has *zero prompt‑engineering knowledge*.
+人間と大規模言語モデル（ChatGPT、Gemini など）の間で動作する AI搭載アダプター
+
+ユーザー入力をもとに プロンプトを自動で最適化
+
+プロンプトエンジニアリングの知識が不要
+
+SNS（ソーシャル・ネットワーキング・サイト）投稿を自動生成
+
+プラットフォーム別（Instagram、X、LinkedIn など）に最適化されたコンテンツを作成
+
+誰でも簡単に AIを活用できる仕組み
 
 Built with ❤️ by **Yash Lonkar**
 
@@ -80,19 +91,6 @@ Ready‑to‑Post Content 🎉
 * **AI Models:** OpenAI / Gemini (pluggable)
 * **Database (Optional):** MySQL / SQLite
 * **Image Generation:** AI Image API (future‑ready)
-
----
-
-## ▶️ Do I Need a Server?
-
-| Use Case         | Server Needed? |
-| ---------------- | -------------- |
-| Local testing    | ❌ No           |
-| AI API calls     | ✅ Yes          |
-| Database storage | ✅ Yes          |
-| Deployment       | ✅ Yes          |
-
-👉 You can **run locally first**, then deploy later.
 
 ---
 
