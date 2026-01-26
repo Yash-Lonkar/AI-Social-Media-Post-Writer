@@ -155,4 +155,4 @@ If you like this project:
 
 ---
 
-> *"Good prompts unlock great AI. This project makes that easy."*
+> *"Good prompts unlock great AI. This project makes that easy..."*
