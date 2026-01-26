@@ -33,7 +33,7 @@ Think of it as a **translator between humans and AI**.
 
 ---
 
-## 🧩 Key Features
+## 🧩 Key Features:
 
 ### 🔹 Prompt Optimization Engine
 
@@ -68,7 +68,7 @@ Automatically adapts tone, length, emojis, and structure:
 
 ---
 
-## 🏗️ Project Architecture (Simple View)
+## 🏗️ Project Architecture (Simple View):
 
 ```
 User Input
@@ -84,7 +84,7 @@ Ready‑to‑Post Content 🎉
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 * **Frontend:** HTML, CSS, JavaScript (Dashboard UI)
 * **Backend:** Python (AI logic)
@@ -94,7 +94,7 @@ Ready‑to‑Post Content 🎉
 
 ---
 
-## 🚦 How to Run (Basic)
+## 🚦 How to Run (Basic):
 
 ```bash
 # Clone the repo
@@ -109,7 +109,7 @@ python app.py
 
 ---
 
-## 📌 Example Output
+## 📌 Example Output:
 
 **Input:**
 
@@ -126,7 +126,7 @@ python app.py
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Enhancements:
 
 * 🔗 Direct social media auto‑posting
 * 🧪 Prompt quality scoring
@@ -136,7 +136,7 @@ python app.py
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 **Yash Santosh Lonkar**
 🎓 MSc Computer Science
@@ -145,7 +145,7 @@ python app.py
 
 ---
 
-## ⭐ Support
+## ⭐ Support:
 
 If you like this project:
 
